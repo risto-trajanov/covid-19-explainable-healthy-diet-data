@@ -25,6 +25,6 @@ Studies [[5]](https://pubmed.ncbi.nlm.nih.gov/32834583/)[[6]](https://www.medrxi
 This data is used to provide additional contextual insight and potential factors that may contribute to the outcome of COVID-19 cases in each country. The data set contains 25 attributes which represent the above-mentioned country characteristics.
 
 ### COVID-19 data
-Finally, country-wise COVID-19 mortality rates were used as the response variable for modeling dependencies in the data and explainable analysis of the importance and impacts of each feature in the specific tasks. The variable was represented in percentage of every country’s total population.
+Finally, country-wise COVID-19 mortality rates were used as the response variable for modeling dependencies in the data and explainable analysis of the importance and impacts of each feature in the specific tasks. The variable was represented in percentage of every country’s total population. [[10]](https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset)
 
 Regression and cluster analysis was performed on each of the subgroups of data individually and on the full data set containing all of the attributes. A comparison between the obtained results is given in the sections that follow.
